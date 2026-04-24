@@ -1,7 +1,7 @@
 # Epic: EduQuest - AI-Powered Gamified Education Platform
 
 ## 1. Epic Hypothesis Statement
-- **For** students, teachers, and parents
+- **For** students, teachers, content creators and parents
 - **Who** struggle with low engagement, inflexible teaching methods, language barriers, and high content creation effort,
 - **The** EduQuest platform
 - **Is a** next-generation, AI-powered gamified education ecosystem
@@ -11,7 +11,8 @@
 
 ## 2. Personas
 - **The Student (The Player):** Needs an engaging, personalized, and rewarding way to consume educational content.
-- **The Teacher (The Content Creator/Game Master):** Needs an intuitive interface to easily create coursework, monitor classroom progress, and validate AI-generated questions without a huge time sink.
+- **The Teacher (The Content Creator/Game Master):** Needs an intuitive interface to easily select coursework, monitor classroom progress, and validate AI-generated questions without a huge time sink.
+- **The Content Creator (The Content Creator/Game Master):** Needs an intuitive interface to easily create coursework, monitor classroom progress, and validate AI-generated questions without a huge time sink.
 - **The Parent (The Sponsor/Monitor):** Needs visibility into their child's learning progress and the ability to control and approve usage in a safe environment.
 
 ## 3. Business Outcomes & Leading Indicators
@@ -27,10 +28,11 @@
 
 ## 4. Lean Business Case: ROI & Business Model
 - **Revenue Streams:** 
-  - B2C Subscriptions (Students/Parents)
+  - B2C Subscriptions (Students/Parents) - Free access but with Ads, or paid subscription with no Ads 
   - B2B Institutional licensing (Schools, Universities, Corporate training)
-  - Content marketplace commissions (future)
-  - Premium AI-generated content services
+  - Content marketplace commissions (future) - free access
+  - microtransactions (future) - paid
+  - Premium AI-generated content services - free access
 - **Competitor Advantage:** Multi-subject, Multi-language capabilities, unified RPG progression, and AI-first approach differentiate us fundamentally from legacy tools.
 
 ## 5. Scope & MVP Features (Program Backlog)
