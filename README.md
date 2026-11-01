@@ -4,9 +4,9 @@ Gamification Go is a platform for learning through games, with a public landing 
 
 ## Current requirements
 
-Read **[Gamification_Go_Specification.md](Gamification_Go_Specification.md)** for the current product requirements and open decisions, based on Roberto's explanation on 2026-11-01.
+Read **[Gamification_Go_Specification.md](Gamification_Go_Specification.md)** for the current product requirements and open decisions, based on the product owner's explanations and clarifications on 2026-11-01.
 
-The specification covers public versus authenticated access; student, parent, teacher, and content creator roles; parental approvals; classroom assignment; question and video imports; publication; and the two-level game proof of concept.
+The specification covers public versus authenticated access; student, parent, teacher, and content creator roles; parental approvals; classroom assignment; question and video imports; publication; the floating-island game proof of concept, teacher-set passing targets, classroom friendships, publishing rights, and future monetization. It also records the approved W-AI palette and links to the reusable owner logo.
 
 The explanation supersedes conflicting earlier proposals. Questions explicitly marked open must be resolved before implementing dependent behavior. This repository update changes documentation only.
 
